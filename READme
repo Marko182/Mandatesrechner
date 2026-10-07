@@ -1,1 +1,11 @@
-Der Rechner wurde mit Gemini erstellt
+# Mandatesrechner & Zeiterfassung
+
+Ein einfaches, browserbasiertes Tool zur Erfassung und Auswertung des Zeitaufwands für kommunalpolitische Mandate (u. a. Stadtrat, Ortsrat, Kreistag).
+
+## 🚀 Features
+- **Datenschutzfreundlich:** Alle eingegebenen Zeiten und Beträge werden ausschließlich lokal im Browser (`localStorage`) gespeichert. Es werden keine Daten an externe Server übertragen.
+- **Übersichtlich:** Schnelle Erfassung von Vorbereitungs-, Sitzungs- und Bürgerarbeitszeiten.
+- **Flexibel:** Lauffähig als GitHub-Pages-Anwendung direkt im Browser auf Smartphone, Tablet und PC.
+
+## 🤖 Hinweis zur Erstellung
+Dieses Projekt sowie der zugrunde liegende Code und die Kalkulationen wurden mit Unterstützung von **Künstlicher Intelligenz (KI)** entwickelt und strukturiert.
